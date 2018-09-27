@@ -1,0 +1,5 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\prjNET\ERP10\ERP\Mainline\_Bin</ReferencePath>
+  </PropertyGroup>
+</Project>
