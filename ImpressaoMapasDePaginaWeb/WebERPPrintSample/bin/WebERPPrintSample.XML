@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebERPPrintSample</name>
+    </assembly>
+    <members>
+        <member name="T:Global">
+            <summary>
+            Contains my site's global variables.
+            </summary>
+        </member>
+        <member name="F:Global._estado">
+            <summary>
+            Global variable storing important stuff.
+            </summary>
+        </member>
+        <member name="P:Global.EstadoImpressao">
+            <summary>
+            Get or set the static important data.
+            </summary>
+        </member>
+        <member name="T:WebERPPrintSample.WebForm1">
+            <summary>
+            New webform
+            </summary>
+            <seealso cref="T:System.Web.UI.Page" />
+        </member>
+        <member name="M:WebERPPrintSample.WebForm1.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of the Page control.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:WebERPPrintSample.WebForm1.Button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Click event of the Button1 control.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtDoc">
+            <summary>
+            txtDoc control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtSerie">
+            <summary>
+            txtSerie control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtNum">
+            <summary>
+            txtNum control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtReport">
+            <summary>
+            txtReport control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtCopies">
+            <summary>
+            txtCopies control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtEmpresa">
+            <summary>
+            txtEmpresa control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtUtil">
+            <summary>
+            txtUtil control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.txtPassword">
+            <summary>
+            txtPassword control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.ddlVersao">
+            <summary>
+            ddlVersao control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.ckbImp">
+            <summary>
+            ckbImp control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.btImprimir">
+            <summary>
+            btImprimir control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.Timer1">
+            <summary>
+            Timer1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.ScriptManagerPrint">
+            <summary>
+            ScriptManagerPrint control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.PrintUpdate">
+            <summary>
+            PrintUpdate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:WebERPPrintSample.WebForm1.lblOutput">
+            <summary>
+            lblOutput control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\bin\WebERPPrintSample.XML
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\bin\WebERPPrintSample.dll
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\bin\WebERPPrintSample.pdb
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\bin\ADODB.dll
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\obj\Release\WebERPPrintSample.csproj.CoreCompileInputs.cache
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\obj\Release\WebERPPrintSample.csproj.CopyComplete
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\obj\Release\WebERPPrintSample.dll
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\obj\Release\WebERPPrintSample.pdb
+D:\ErpSdk\ImpressaoMapasDePaginaWeb\WebERPPrintSample\bin\WebERPPrintSample.tlb
